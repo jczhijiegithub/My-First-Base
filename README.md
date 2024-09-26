@@ -1,2 +1,1 @@
-# My First Base
-For beginner
+# For beginner
