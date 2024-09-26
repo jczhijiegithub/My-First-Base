@@ -1,4 +1,4 @@
 # My-First-Base
-For beginner purpose.
+For beginner
 
 hello
